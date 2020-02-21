@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wbmdb-admin/static/css/main.d1b05096.chunk.css",
+    "main.js": "/wbmdb-admin/static/js/main.d9f93db8.chunk.js",
+    "main.js.map": "/wbmdb-admin/static/js/main.d9f93db8.chunk.js.map",
+    "runtime-main.js": "/wbmdb-admin/static/js/runtime-main.9b679826.js",
+    "runtime-main.js.map": "/wbmdb-admin/static/js/runtime-main.9b679826.js.map",
+    "static/js/2.1ae54cfe.chunk.js": "/wbmdb-admin/static/js/2.1ae54cfe.chunk.js",
+    "static/js/2.1ae54cfe.chunk.js.map": "/wbmdb-admin/static/js/2.1ae54cfe.chunk.js.map",
+    "index.html": "/wbmdb-admin/index.html",
+    "precache-manifest.49a95ecc27c873efc1050fb9ccb01321.js": "/wbmdb-admin/precache-manifest.49a95ecc27c873efc1050fb9ccb01321.js",
+    "service-worker.js": "/wbmdb-admin/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/wbmdb-admin/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.1ae54cfe.chunk.js.LICENSE.txt": "/wbmdb-admin/static/js/2.1ae54cfe.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/wbmdb-admin/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b679826.js",
+    "static/js/2.1ae54cfe.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d9f93db8.chunk.js"
+  ]
+}
